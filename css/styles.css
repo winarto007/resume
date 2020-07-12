@@ -6094,8 +6094,14 @@ a.close.disabled {
   vertical-align: text-top !important;
 }
 
+.bg-picture {
+  background-image: url('../assets/img/Background.jpg') !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .bg-primary {
-  background-color: #1abc9c !important;
+  background-color: #1bbe9e !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
